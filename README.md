@@ -1,2 +1,2 @@
-# Advanced-Style
-Exercise advanced style
+# My-First-Style
+Exercise HTML and CSS
